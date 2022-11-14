@@ -52,7 +52,7 @@
 **2. Random Forest**
    - Hyperparameters were tuned, and these are the parameters used in the model are criterion = ‘entropy’, max_depth = None, 
    min_samples_split = 3
-   - Accuracy was 83% for this model
+   - Accuracy was 85% for this model
 
 *Variable Importance Plot indicates that **Prior Default** is the most important variable*
 
