@@ -1,6 +1,4 @@
-# CreditCardApprovalPrediction
-
-# SupervisedLearning
+# Credit Card Approval Prediction with Supervised Machine Learning Models
 
 
 
