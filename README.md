@@ -24,8 +24,6 @@
 - The dataset was throroughly explored for missing values and they were eliminated using mean, frequency and other relevant imputation methods 
 - Used Label encoders for converting some of the data labels in the various variables to numeric form in order for the machine learning models to be applied.
 - Obtained Correlation Heat Map to understand correlation of variables and also to extract some important features.
-- **Review (Target):** Quality is represented by scores ranging from 0 to 10, 0 being the “worst” and 10 being the “best”
-- **Review (Target):** Created a new target column “Review”
 - **Label Encoding in Approval "target" variable:** Approved as "1", Denied as "0" 
 
 ## 4. Part II: Machine Learning
